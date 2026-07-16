@@ -1023,7 +1023,7 @@ a {
 
     position:relative;
 
-    min-height:850px;
+    min-height:950px;
 
     display:flex;
 
@@ -1031,7 +1031,7 @@ a {
 
     justify-content:center;
 
-    padding:80px;
+    padding:80px 80px 220px;
 
     background:
         linear-gradient(

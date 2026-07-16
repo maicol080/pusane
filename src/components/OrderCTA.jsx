@@ -65,7 +65,7 @@ function OrderCTA(){
                 <div className="order-buttons">
 
 
-                    <a href="#">
+                    <a href="https://www.justeat.it/restaurants-the-alley-street-food-milano/menu">
 
                         Ordina ora
 
@@ -75,7 +75,7 @@ function OrderCTA(){
 
 
 
-                    <a href="#location">
+                    <a href="https://www.google.com/maps/place/PUSAN%C3%89+(the+alley+street+food)/@45.4550234,9.1967305,557m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4786c5317c0b92df:0x9ceb4a30422f2bfd!8m2!3d45.4550197!4d9.1993054!16s%2Fg%2F11p5dm3v5n?entry=ttu&g_ep=EgoyMDI2MDcxNC4wIKXMDSoASAFQAw%3D%3D">
 
                         Vieni a trovarci
 

@@ -63,7 +63,7 @@ function Footer(){
                     </span>
 
 
-                    <a href="#">
+                    <a href="https://www.instagram.com/pusane_squisitamente_pugliese_/">
                         Instagram
                     </a>
 
@@ -109,12 +109,12 @@ function Footer(){
                     </span>
 
 
-                    <a href="#">
+                    <a href="+393427623864">
                         Milano
                     </a>
 
 
-                    <a href="#">
+                    <a href="https://www.justeat.it/restaurants-the-alley-street-food-milano/menu">
                         Ordina
                     </a>
 

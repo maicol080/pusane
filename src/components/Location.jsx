@@ -91,9 +91,23 @@ function Location(){
                         </span>
 
                         <p>
-                            Lun - Dom
+                            Lun - Gio
                             <br />
-                            12:00 - 23:00
+                            10:30 - 14:45
+                            <br />
+                            17:15 - 23:00
+                            <br /><br />
+
+                            Ven - Sab
+                            <br />
+                            10:30 - 15:00
+                            <br />
+                            17:00 - 23:00
+                            <br /><br />
+
+                            Dom
+                            <br />
+                            17:30 - 23:00
                         </p>
 
                     </div>
@@ -107,7 +121,7 @@ function Location(){
                         </span>
 
                         <p>
-                            +39 000 0000000
+                            +39 342 762 3864
                         </p>
 
                     </div>
