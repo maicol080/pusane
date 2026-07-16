@@ -109,7 +109,7 @@ function Footer(){
                     </span>
 
 
-                    <a href="+393427623864">
+                    <a href="tel:+393427623864">
                         Milano
                     </a>
 
