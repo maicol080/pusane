@@ -236,6 +236,8 @@ a {
 
     box-shadow:0 20px 60px rgba(0,0,0,.12);
 
+    will-change:clip-path;
+
 }
 
 
@@ -2013,6 +2015,13 @@ body,
     }
 
 
+    .menu-overlay {
+
+        box-shadow:none;
+
+    }
+
+
 
     .menu-category h3 {
 
@@ -2206,6 +2215,13 @@ body,
 
     }
 
+    .footer-column {
+
+        align-items:center;
+
+        text-align:center;
+
+    }
 
 
     .footer-links {
